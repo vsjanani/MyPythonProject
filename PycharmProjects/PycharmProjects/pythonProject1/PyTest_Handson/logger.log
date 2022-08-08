@@ -1,0 +1,18 @@
+2022-06-22 17:21:17,066, pytest_pyfunc_call, INFO, hi my name is janani
+2022-06-22 17:24:56,630, INFO, pytest_pyfunc_call, hi my name is janani
+2022-06-22 17:28:32,109, INFO, pytest_pyfunc_call, hi my name is janani
+2022-06-22 17:28:32,112, INFO, pytest_pyfunc_call, hi my name is janani
+2022-06-22 17:28:32,112, INFO, pytest_pyfunc_call, hi my name is janani
+2022-06-22 17:28:32,116, INFO, test_log_caller, hi my name is janani
+2022-06-23 10:15:58,513, DEBUG, test_log_caller, Sarvam Krishnarpanam
+2022-06-23 10:50:42,524, DEBUG, test_log_caller, Sarvam Krishnarpanam
+2022-06-23 10:51:17,446, DEBUG, test_log_caller, Sarvam Krishnarpanam
+2022-06-23 10:52:32,859, INFO, test_log_caller, Sarvam Krishnarpanam
+2022-06-23 10:53:34,614, INFO, test_log_caller, Sarvam Krishnarpanam
+2022-06-23 10:54:19,803, INFO, test_log_caller, Sarvam Krishnarpanam
+2022-06-23 11:04:43,640, INFO, test_log_caller, Sarvam Krishnarpanam
+2022-07-07 15:14:01,050, CRITICAL, test_log_caller, I am critical
+2022-07-07 15:14:01,070, WARNING, test_log_caller, I am warning
+2022-07-07 15:14:01,071, ERROR, test_log_caller, i am error
+2022-07-07 15:14:44,636, CRITICAL, test_log_caller, I am critical
+2022-07-07 15:14:44,638, ERROR, test_log_caller, i am error

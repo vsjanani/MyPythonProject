@@ -1,0 +1,51 @@
+jenkins:
+janani
+Kels3road
+
+Git:
+vsjanani
+Sanjeevkrish@01
+file:///C:/Program%20Files/Git/ReleaseNotes.html
+download git exe.
+create github acct.
+use steps in learning python notepad for git commands.
+
+selenium python step by step procedure:
+
+install python
+add python and pip to system environment variables
+to verify, use, "python --version" in command prompt
+pip install selenium
+to verify, pip show selenium.
+install pycharm editor
+pip install pytest
+to verify, use, pytest -version. Note: ensure latest pip version to be upgraded to avoid "pytest is not an external or internal command"
+pip install pytest-html
+pip install openpyxl
+install git from git downloads, create github acct.
+
+
+C:/Users/dines/OneDrive/Documents/MyPythonProject/chromedriver.exe
+
+ C:\Program Files\Jenkins
+java -jar jenkins.war
+
+custom workspace in jenkins configuration:  C:\Users\dines\OneDrive\Documents\MyPythonProject
+
+In Build section:
+cd PycharmProjects\PycharmProjects\pythonProject2\E2E_Framework
+pytest --browser_name "%browsername%" --html=$WORKSPACE\PycharmProjects\PycharmProjects\pythonProject2\reports\report.html-v --junitxml="result.xml"
+
+Post Build Action section:
+PycharmProjects\PycharmProjects\pythonProject2\E2E_Framework\*.xml
+
+
+C:\Users\dines\OneDrive\Documents\MyPythonProject\PycharmProjects\PycharmProjects\pythonProject2\E2E_Framework\report.html
+
+
+
+
+
+
+
+

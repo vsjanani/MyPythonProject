@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PycharmProjects/PycharmProjects/pythonProject2/E2E_Framework/.idea/E2E_Framework.iml" filepath="$PROJECT_DIR$/PycharmProjects/PycharmProjects/pythonProject2/E2E_Framework/.idea/E2E_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyPythonProject.iml" filepath="$PROJECT_DIR$/.idea/MyPythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PycharmProjects/PycharmProjects/pythonProject2/git/.idea/git.iml" filepath="$PROJECT_DIR$/PycharmProjects/PycharmProjects/pythonProject2/git/.idea/git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PycharmProjects/PycharmProjects/pythonProject2/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/PycharmProjects/PycharmProjects/pythonProject2/.idea/pythonProject2.iml" />
+    </modules>
+  </component>
+</project>
